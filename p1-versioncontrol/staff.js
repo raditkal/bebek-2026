@@ -39,4 +39,12 @@ const staff = [
         github: "tegarprasety0",
         foto:"",
     },
+    {
+        name: "M Radittyo Kalin",
+        division: "PTI",
+        batch: "2026",
+        role: "Member",
+        github: "raditkal",
+        foto:"",
+    },
 ];
